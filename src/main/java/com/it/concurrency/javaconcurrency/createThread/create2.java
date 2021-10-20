@@ -2,6 +2,9 @@ package com.it.concurrency.javaconcurrency.createThread;
 
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * 通过Runnable接口创建线程类
+ */
 @Slf4j(topic = "Runnable")
 public class create2 {
 
